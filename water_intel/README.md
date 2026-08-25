@@ -156,6 +156,9 @@ In `app.py` sidebar you can adjust:
 | Alert mock | Twilio SMS + SendGrid email + IFTTT webhook |
 | Location list | PostGIS + satellite tile streaming |
 
+## 🚀 Live Demo
+
+👉 [Open the Water Pollution Detection App](https://ai-avengersremote-sensing-for-water-body-pollution-detectiontr.streamlit.app/)
 ---
 
 *Built for hackathon demo. All data is simulated for illustrative purposes.*
